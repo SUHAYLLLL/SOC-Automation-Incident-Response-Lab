@@ -1,0 +1,2 @@
+ticket_id,created_at,source_ip,attack_type,severity,priority,status
+INC-0001,2026-11-07T11:07:35.971868+00:00,203.0.113.50,Brute Force,HIGH,P2 - High,OPEN

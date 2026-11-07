@@ -1,0 +1,21 @@
+SOC INCIDENT RESPONSE REPORT
+========================================
+Generated: 2026-11-07T11:07:35.971160+00:00
+Total Incidents: 1
+
+INCIDENT 1
+----------------------------------------
+Source IP: 203.0.113.50
+Attack Type: Brute Force
+Severity: HIGH
+Priority: P2 - High
+Failed Attempts: 5
+Status: OPEN
+
+RECOMMENDED RESPONSE ACTIONS:
+1. Investigate authentication logs.
+2. Review activity from the suspicious IP.
+3. Consider temporarily blocking the IP after verification.
+4. Check affected accounts for compromise.
+5. Escalate to a SOC analyst for review.
+
